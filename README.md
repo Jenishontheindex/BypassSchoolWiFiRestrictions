@@ -2,6 +2,8 @@
 
 A remastered version of the now archived project started by Browncha023
 
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://BypassSchoolWifiRestrictions.jenishpathak.repl.co)<br>
+
 Browncha023 Profile: https://github.com/Browncha023
 
 Original Project: https://github.com/Browncha023#:~:text=Popular%20repositories-,EndInternetCensorship,-Public%20archive
