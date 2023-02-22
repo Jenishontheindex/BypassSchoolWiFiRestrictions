@@ -1,8 +1,8 @@
 # BypassSchoolWiFiRestrictions
 
-A remastered version of the now archived project started by Browncha023
+A remastered version by Jenish Pathak of the now archived project started by Browncha023
 
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://BypassSchoolWifiRestrictions.jenishpathak.repl.co)<br>
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://BypassSchoolWifiRestrictions-jenishpathak.repl.co)<br>
 
 Browncha023 Profile: https://github.com/Browncha023
 
