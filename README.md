@@ -1,4 +1,4 @@
-# BypassSchoolWiFiRestrictions
+# BypassSchoolWiFiRestrictions NOT ACTIVE FOR NOW
 
 A remastered version by Jenish Pathak of the now archived project started by Browncha023
 
